@@ -10,7 +10,7 @@ This website is built using HTML, CSS, and JavaScript. It utilizes a JSON data f
 
 You can access the hosted version of this website by clicking the following link:
 
-[Anime Website]([https://gojoanimezone.netlify.app/])
+[Anime Website](https://gojoanimezone.netlify.app/)
 
 ## Features
 
